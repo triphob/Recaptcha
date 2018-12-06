@@ -26,7 +26,7 @@ recaptcha เป็นการตรวจสอบผู้ใช้ก่อ�
 
 ![capture2](https://user-images.githubusercontent.com/45479898/49563816-edadeb00-f953-11e8-92f2-35312905f2da.PNG)
 
-![capture3](https://user-images.githubusercontent.com/45479898/49563816-edadeb00-f953-11e8-92f2-35312905f2da.PNG)
+![capture3](https://user-images.githubusercontent.com/45479898/49564943-028c7d80-f958-11e8-8019-0876d6f28b6b.PNG)
 
 ถ้าทำผิดก็ขึ้นตารางว่าจะทอีกครั้งไหม
 
